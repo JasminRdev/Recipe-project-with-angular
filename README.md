@@ -1,0 +1,2 @@
+# Recipe-project-with-angular
+Through the course of Angular - the complete guide from Schwarzmüller I learned some more fundamentals of the new language. So far I added some kind of navigation with eventbinding and ngIf. The app is able to select a recipe to add new items to the shopping list with event and property binding. Later on the behaviors will get overwritten but for now that's a good start. 
